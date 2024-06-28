@@ -14,8 +14,7 @@
 
 
 
-
-[linkedin]: www.linkedin.com/in/demi5martinez
+[linkedin]:www.linkedin.com/in/demi5martinez
 
 <!--
 - 👋 Hi, I’m @Demi-Martinez
