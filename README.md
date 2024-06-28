@@ -6,13 +6,18 @@
   - [A gene expression data classification application using Bayesian networks](https://github.com/Demi-Martinez/gene-expression-classification-bayesian-networks)
   - [The finite element method as a solution of the eikonal equation applied to cardiac wavefronts diffusion](https://github.com/Demi-Martinez/finite-element-solution-for-cardiac-wavefront-diffusion)
   - [Visualization of moving trains on a map](https://github.com/Demi-Martinez/moving-trains-on-a-map)
+  - [Translation app](https://github.com/Demi-Martinez/translation-app)
 
 - <b>JavaScript and Java</b>
   - [Web form that helps you to see if you need a visa to travel](https://github.com/Demi-Martinez/visa-requirements-checker)
   - [Webmaster of the Hinode EIS website](https://github.com/Demi-Martinez/hinode-eis-webmaster)
+  - Neural neworks
     
 - <b>Data structures and algorithms practice</b>
   - [Praciting data structures and algorithms in python](https://github.com/Demi-Martinez/Algorithms-Practice)
+ 
+- <b>PHP and Google Visualization</b>
+  - Visualization of health information
 
 - <b>Spreadsheets</b>
   - [Translator of worpress dump](https://github.com/Demi-Martinez/translator-of-wordpress-dump)
