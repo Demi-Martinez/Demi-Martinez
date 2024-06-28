@@ -14,7 +14,7 @@
 - <b>Data structures and algorithms practice</b>
   - [Praciting data structures and algorithms in python](https://github.com/Demi-Martinez/Algorithms-Practice)
 
-- <b>Spreadheets</b>
+- <b>Spreadsheets</b>
   - [Translator of worpress dump](https://github.com/Demi-Martinez/translator-of-wordpress-dump)
   - [Template about visa requirements](https://github.com/Demi-Martinez/template-about-visa-requirements)
 
