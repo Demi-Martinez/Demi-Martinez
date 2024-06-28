@@ -1,13 +1,15 @@
 <h1>Hi, I'm Demi! <br/><a href="https://github.com/Demi-Martinez">Scientific Programmer</a>, <a href="https://www.linkedin.com/in/demi5martinez/">Research Engineer</a>, Teacher, SEO Analyst</h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Code Projects:</h2>
 
 - <b>Python</b>
   - [A gene expression data classification application using Bayesian networks](https://github.com/Demi-Martinez/gene-expression-classification-bayesian-networks)
   - [The finite element method as a solution of the eikonal equation applied to cardiac wavefronts diffusion](https://github.com/Demi-Martinez/finite-element-solution-for-cardiac-wavefront-diffusion)
+  - [Visualization of moving trains on a map](https://github.com/Demi-Martinez/moving-trains-on-a-map)
 
-- <b>JavaScript</b>
+- <b>JavaScript and Java</b>
   - [Web form that helps you to see if you need a visa to travel](https://github.com/Demi-Martinez/visa-requirements-checker)
+  - [Webmaster of the Hinode EIS website](https://github.com/Demi-Martinez/hinode-eis-webmaster)
     
 - <b>Data structures and algorithms practice</b>
   - [Praciting data structures and algorithms in python](https://github.com/Demi-Martinez/Algorithms-Practice)
