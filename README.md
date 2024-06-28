@@ -11,10 +11,12 @@
     
 - <b>Data structures and algorithms practice</b>
   - [Praciting data structures and algorithms in python](https://github.com/Demi-Martinez/Algorithms-Practice)
+ 
+<h2> 🤳 Connect with me:</h2>
 
+[<img align="left" alt="DemiMartinez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-
-[linkedin]:www.linkedin.com/in/demi5martinez
+[linkedin]: www.linkedin.com/in/demi5martinez
 
 <!--
 - 👋 Hi, I’m @Demi-Martinez
