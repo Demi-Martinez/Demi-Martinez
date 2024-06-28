@@ -17,6 +17,19 @@
 - <b>Spreadsheets</b>
   - [Translator of worpress dump](https://github.com/Demi-Martinez/translator-of-wordpress-dump)
   - [Template about visa requirements](https://github.com/Demi-Martinez/template-about-visa-requirements)
+ 
+<h2>💞️ System Design:</h2>
+
+- <b>Translations</b>
+  - Automatic webpages translations
+  - Automatic webpages recreation in another language
+ 
+- <b>Search Engine Optimization - SEO</b>
+  These are the insight we learned doing SEO for different websites since 2019. All the work in this section needs to integrate Large Language Models (LLMs). 
+  - Multilingual keyword research
+  - Effective Site Speed
+  - Casual link bulding
+  - Content creation with templates
 
  
 <h2> 🤳 Connect with me:</h2>
