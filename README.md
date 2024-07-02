@@ -14,7 +14,7 @@ These code and projects showcase my experience and or may be interesting ideas f
 - <b>JavaScript and Java</b>
   - [Web form that helps you to see if you need a visa to travel](https://github.com/Demi-Martinez/visa-requirements-checker)
   - [Webmaster of the Hinode EIS website](https://github.com/Demi-Martinez/hinode-eis-webmaster)
-  - Neural neworks
+  - Neural networks
     
 - <b>Data structures and algorithms practice</b>
   - [Praciting data structures and algorithms in python](https://github.com/Demi-Martinez/Algorithms-Practice)
