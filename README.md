@@ -1,6 +1,6 @@
 <h1>Hi, I'm Demi! <br/><a href="https://www.linkedin.com/in/demi5martinez/">Research Engineer</a>, Teacher, SEO Analyst</h1>
 
-These code and projects showcase my experience and or may be interesting ideas for my student.
+These code and projects showcase my experience and or may be interesting ideas for students.
 
 <h2>👨‍💻 Code Projects:</h2>
 
