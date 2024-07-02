@@ -1,5 +1,7 @@
 <h1>Hi, I'm Demi! <br/><a href="https://www.linkedin.com/in/demi5martinez/">Research Engineer</a>, Teacher, SEO Analyst</h1>
 
+These code and projects showcase my experience and or may be interesting ideas for my student.
+
 <h2>👨‍💻 Code Projects:</h2>
 
 - <b>Python</b>
@@ -18,7 +20,8 @@
   - [Praciting data structures and algorithms in python](https://github.com/Demi-Martinez/Algorithms-Practice)
  
 - <b>PHP and Google Visualization</b>
-  - Visualization of health information
+  - Visualization of anonynised patients' health statisitcs
+  - Administration of an online poker website
 
 - <b>Spreadsheets</b>
   - [Translator of worpress dump](https://github.com/Demi-Martinez/translator-of-wordpress-dump)
