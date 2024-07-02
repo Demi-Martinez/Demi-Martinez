@@ -9,7 +9,8 @@ These code and projects showcase my experience and or may be interesting ideas f
   - [The finite element method as a solution of the eikonal equation applied to cardiac wavefronts diffusion](https://github.com/Demi-Martinez/finite-element-solution-for-cardiac-wavefront-diffusion)
   - [Visualization of moving trains on a map](https://github.com/Demi-Martinez/moving-trains-on-a-map)
   - [Translation app](https://github.com/Demi-Martinez/translation-app)
-  - Web Scraper
+  - Web Scraper for webpages
+  - Web Scrper through forms 
 
 - <b>JavaScript and Java</b>
   - [Web form that helps you to see if you need a visa to travel](https://github.com/Demi-Martinez/visa-requirements-checker)
