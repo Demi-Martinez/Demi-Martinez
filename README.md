@@ -7,14 +7,14 @@ These code and projects showcase my experience and or may be interesting ideas f
 - <b>Python</b>
   - [Visualization of moving trains on a map](https://github.com/Demi-Martinez/moving-trains-on-a-map)
   - [Translation app](https://github.com/Demi-Martinez/translation-app)
-  - Web Scraper for webpages
-  - Web Scrper through forms
+  - Web Scraper for webpages and or forms 
   - Predicting traffic with GAnalytics (time series forecasting)
   - Sentiment Analysis of Comments
   - Fraud detection in transactions
   - Customer Lifetime Value (CLTV) Prediction in E-commerce
   - Algorithmic Trading Strategy Development
   - Protein Structure Prediction with Deep Learning
+  - Optimal Solar Plant Layout and Design with Reinforcement Learning:
 
 - <b>JavaScript and Java</b>
   - [Web form that helps you to see if you need a visa to travel](https://github.com/Demi-Martinez/visa-requirements-checker)
