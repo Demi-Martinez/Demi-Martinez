@@ -5,13 +5,12 @@ These code and projects showcase my experience and or may be interesting ideas f
 <h2>👨‍💻 Code Projects:</h2>
 
 - <b>Python</b>
-  - [A gene expression data classification application using Bayesian networks](https://github.com/Demi-Martinez/gene-expression-classification-bayesian-networks)
-  - [The finite element method as a solution of the eikonal equation applied to cardiac wavefronts diffusion](https://github.com/Demi-Martinez/finite-element-solution-for-cardiac-wavefront-diffusion)
   - [Visualization of moving trains on a map](https://github.com/Demi-Martinez/moving-trains-on-a-map)
   - [Translation app](https://github.com/Demi-Martinez/translation-app)
   - Web Scraper for webpages
   - Web Scrper through forms
-  - Predicting traffic with GAnalytics
+  - Predicting traffic with GAnalytics (time series forecasting)
+  - Sentiment Analysis of Comments
 
 - <b>JavaScript and Java</b>
   - [Web form that helps you to see if you need a visa to travel](https://github.com/Demi-Martinez/visa-requirements-checker)
@@ -28,6 +27,12 @@ These code and projects showcase my experience and or may be interesting ideas f
 - <b>Spreadsheets</b>
   - [Translator of worpress dump](https://github.com/Demi-Martinez/translator-of-wordpress-dump)
   - [Template about visa requirements](https://github.com/Demi-Martinez/template-about-visa-requirements)
+
+- <b>Academic scientific code</b>
+  - [A gene expression data classification application using Bayesian networks](https://github.com/Demi-Martinez/gene-expression-classification-bayesian-networks)
+  - [The finite element method as a solution of the eikonal equation applied to cardiac wavefronts diffusion](https://github.com/Demi-Martinez/finite-element-solution-for-cardiac-wavefront-diffusion)
+  - Mesh Building
+  - Flare Prediction
  
 <h2>💞️ System Design:</h2>
 
