@@ -14,6 +14,7 @@ These code and projects showcase my experience and or may be interesting ideas f
   - Fraud detection in transactions
   - Customer Lifetime Value (CLTV) Prediction in E-commerce
   - Algorithmic Trading Strategy Development
+  - Protein Structure Prediction with Deep Learning
 
 - <b>JavaScript and Java</b>
   - [Web form that helps you to see if you need a visa to travel](https://github.com/Demi-Martinez/visa-requirements-checker)
