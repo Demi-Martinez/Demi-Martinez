@@ -10,7 +10,8 @@ These code and projects showcase my experience and or may be interesting ideas f
   - [Visualization of moving trains on a map](https://github.com/Demi-Martinez/moving-trains-on-a-map)
   - [Translation app](https://github.com/Demi-Martinez/translation-app)
   - Web Scraper for webpages
-  - Web Scrper through forms 
+  - Web Scrper through forms
+  - Predicting traffic with GAnalytics
 
 - <b>JavaScript and Java</b>
   - [Web form that helps you to see if you need a visa to travel](https://github.com/Demi-Martinez/visa-requirements-checker)
