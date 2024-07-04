@@ -32,7 +32,8 @@ These code and projects showcase my experience and or may be interesting ideas f
   - [A gene expression data classification application using Bayesian networks](https://github.com/Demi-Martinez/gene-expression-classification-bayesian-networks)
   - [The finite element method as a solution of the eikonal equation applied to cardiac wavefronts diffusion](https://github.com/Demi-Martinez/finite-element-solution-for-cardiac-wavefront-diffusion)
   - Mesh Building
-  - Flare Prediction
+  - Solar Flare Prediction
+  - Mortality prediction in hospitals
  
 <h2>💞️ System Design:</h2>
 
