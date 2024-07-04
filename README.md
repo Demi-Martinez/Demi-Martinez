@@ -40,6 +40,9 @@ These code and projects showcase my experience and or may be interesting ideas f
 - <b>Translations</b>
   - Automatic webpages translations
   - Automatic webpages recreation in another language
+
+- <b>Image Generation using Generative Adversarial Networks (GANs)
+</b>
  
 - <b>Search Engine Optimization - SEO</b>
   These are the insight we learned doing SEO for different websites since 2019. All the work in this section needs to integrate Large Language Models (LLMs). 
