@@ -11,6 +11,9 @@ These code and projects showcase my experience and or may be interesting ideas f
   - Web Scrper through forms
   - Predicting traffic with GAnalytics (time series forecasting)
   - Sentiment Analysis of Comments
+  - Fraud detection in transactions
+  - Customer Lifetime Value (CLTV) Prediction in E-commerce
+  - Algorithmic Trading Strategy Development
 
 - <b>JavaScript and Java</b>
   - [Web form that helps you to see if you need a visa to travel](https://github.com/Demi-Martinez/visa-requirements-checker)
