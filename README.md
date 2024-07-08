@@ -7,7 +7,7 @@ These code and projects showcase my experience and or may be interesting ideas f
 - <b>Python</b>
   - [Visualization of moving trains on a map](https://github.com/Demi-Martinez/moving-trains-on-a-map)
   - [Translation app](https://github.com/Demi-Martinez/translation-app)
-  - Web Scraper for webpages and or forms 
+  - [Web Scraper for webpages and or forms](https://github.com/Demi-Martinez/web-scraper-for-webpages) 
   - Predicting traffic with GAnalytics (time series forecasting)
   - Sentiment Analysis of Comments
   - Fraud detection in transactions
