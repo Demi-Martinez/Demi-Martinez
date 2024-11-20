@@ -1,6 +1,6 @@
 <h1>Hi, I'm Demi! <br/><a href="https://www.linkedin.com/in/demi5martinez/">Research Engineer</a>, Teacher, SEO Analyst</h1>
 
-These code and projects showcase my experience and or may be interesting ideas for students.
+Welcome to my tech portfolio! Here, you'll find a collection of code and projects that showcase my experience. Some of these projects also serve as inspiration or resources for students.
 
 <h2>👨‍💻 Code Projects:</h2>
 
@@ -9,17 +9,17 @@ These code and projects showcase my experience and or may be interesting ideas f
   - [Translation app](https://github.com/Demi-Martinez/translation-app)
   - [Web Scraper for webpages and or forms](https://github.com/Demi-Martinez/web-scraper-for-webpages) 
   - Predicting traffic with GAnalytics (time series forecasting)
-  - Sentiment Analysis of Comments
-  - Fraud detection in transactions
-  - Customer Lifetime Value (CLTV) Prediction in E-commerce
-  - Algorithmic Trading Strategy Development
-  - Protein Structure Prediction with Deep Learning
-  - Optimal solar plant layout and design with reinforcement learning
+  - Sentiment analysis of comments
+  - Fraud detection in financial transactions
+  - Customer Lifetime Value (CLTV) prediction in e-commerce
+  - Algorithmic trading strategy development
+  - Protein structure prediction with deep learning
+  - Optimal solar plant layout and design using reinforcement learning
 
 - <b>JavaScript and Java</b>
-  - [Web form that helps you to see if you need a visa to travel](https://github.com/Demi-Martinez/visa-requirements-checker)
+  - [Web form for checking visa requirements](https://github.com/Demi-Martinez/visa-requirements-checker)
   - [Webmaster of the Hinode EIS website](https://github.com/Demi-Martinez/hinode-eis-webmaster)
-  - Neural networks
+  - Neural networks development
     
 - <b>Data structures and algorithms practice</b>
   - [Praciting data structures and algorithms in python](https://github.com/Demi-Martinez/Algorithms-Practice)
@@ -38,22 +38,23 @@ These code and projects showcase my experience and or may be interesting ideas f
   - Mesh Building
   - Solar Flare Prediction
   - Mortality prediction in hospitals
- 
+
+
 <h2>💞️ System Design:</h2>
 
-- <b>Translations</b>
+<b>Search Engine Optimization (SEO)</b>
+Insights from my SEO journey since 2019. Some strategies have eventually incorporate prompt engineering for better performance.
+  - Multilingual keyword research
+  - Effective Site Speed
+  - Casual link-building strategies
+  - Content creation with templates
+
+<b>Translations</b>
   - Automatic webpages translations
   - Automatic webpages recreation in another language
 
-- <b>Image Generation using Generative Adversarial Networks (GANs)
-</b>
- 
-- <b>Search Engine Optimization - SEO</b>
-  These are the insight we learned doing SEO for different websites since 2019. All the work in this section needs to integrate Large Language Models (LLMs). 
-  - Multilingual keyword research
-  - Effective Site Speed
-  - Casual link bulding
-  - Content creation with templates
+<b>Image Generation</b>
+  - Generative Adversarial Networks (GANs) for creating images
 
  
 <h2> 🤳 Connect with me:</h2>
