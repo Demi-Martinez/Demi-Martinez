@@ -2,7 +2,7 @@
 
 Welcome to my tech portfolio! Here, you'll find a collection of code and projects that showcase my experience. Some of these projects also serve as inspiration or resources for students.
 
-<h2>💞️ System Designs:</h2>
+<h2>💞️ Automation and AI Projects:</h2>
 
 <b>Search Engine Optimization (SEO)</b>
 Insights from my SEO journey since 2019. Some strategies have eventually incorporate prompt engineering for better performance.
