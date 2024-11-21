@@ -1,4 +1,4 @@
-<h1>Hi, I'm Demi! <br/><a href="https://www.linkedin.com/in/demi5martinez/">Full Stack Engineer</a> | SEO Analyst | Data Scientist | Teacher</h1>
+<h1>Hi, I'm Demi! <br/><a href="https://www.linkedin.com/in/demi5martinez/">Full-Stack Engineer</a> | SEO Analyst | Data Scientist | Teacher</h1>
 
 Welcome to my tech portfolio! Here, you'll find a collection of code and projects that showcase my experience. Some of these projects also serve as inspiration or resources for students.
 
