@@ -8,7 +8,7 @@ Welcome to my tech portfolio! Here, you'll find a collection of code and project
 
 Insights from my SEO journey since 2019. Some strategies have eventually incorporated prompt engineering for better performance.
 
-- <b>Fast and Optimized Websites:</b> I created lightweight, highly responsive websites designed for both speed and functionality.
+- <a href="https://github.com/Demi-Martinez/search-engine-optimization/key-strategies-for-website-optimization"><b>Fast and Optimized Websites:</b></a> I created lightweight, highly responsive websites designed for both speed and functionality.
 
 - <b>Mobile-First Design:</b> I developed visually appealing yet minimalistic designs that perform exceptionally well on mobile devices.
 
