@@ -5,11 +5,22 @@ Welcome to my tech portfolio! Here, you'll find a collection of code and project
 <h2>💞️ Automation and AI Projects:</h2>
 
 <b>Search Engine Optimization (SEO)</b>
-Insights from my SEO journey since 2019. Some strategies have eventually incorporate prompt engineering for better performance.
-- Multilingual keyword research
-- Effective Site Speed
-- Casual link-building strategies
-- Content creation with templates
+
+Insights from my SEO journey since 2019. Some strategies have eventually incorporated prompt engineering for better performance.
+
+- <b>Fast and Optimized Websites:</b> I created lightweight, highly responsive websites designed for both speed and functionality.
+
+- <b>Mobile-First Design:</b> I developed visually appealing yet minimalistic designs that perform exceptionally well on mobile devices.
+
+- <b>Long-Tail Keyword:</b> I targeted low-competition, zero-traffic keywords to establish niche authority and drive organic growth. 
+
+- <b>Topic Clustering:</b> I create central "pillar" page that covers a broad subject and linking it to several in-depth "cluster" pages that focus on specific subtopics. 
+
+- <b>Content in Multiple Languages:</b> I specialized in producing non-English content tailored to regional audiences, enabling effective penetration into underserved markets.
+
+- <b>No Link Building:</b> I Achieved SEO success without relying on backlinks, instead prioritizing content quality, keyword targeting, and technical SEO.
+
+- <b>Instagram-Ecommerce Integration:</b> I supported several active Instagram channel with an e-commerce website to enhance customer engagement and drive sales.
 
 <b>Translations</b>
 - Automatic webpages translations
